@@ -30,7 +30,7 @@ class Dog:
 
     # Method definition within the Dog class
     def bark(self):
-        print(self.name + ' barks!')
+        print(self.name + ' woofs!')
 
 
 # my_dog Object named fido
